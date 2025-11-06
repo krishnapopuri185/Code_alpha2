@@ -100,7 +100,7 @@ How to Run the Project
 
 
 Clone the repository
-git clone https://github.com/yourusername/creditworthiness-prediction.git
+git clone https//https://github.com/krishnapopuri185/Code_alpha2/edit/main/README.md
 cd creditworthiness-prediction
 
 
