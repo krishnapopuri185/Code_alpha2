@@ -115,15 +115,9 @@ python credit_model.py
 
 
 
-(Optional) Run in Jupyter Notebook
+Run in Jupyter Notebook
 jupyter notebook Creditworthiness_Prediction.ipynb
 
-
-
-
-Results Summary
-ModelAccuracyPrecisionRecallROC-AUCLogistic Regression~0.77~0.74~0.78~0.82Decision Tree~0.72~0.69~0.70~0.75Random Forest~0.80~0.77~0.81~0.86XGBoost~0.83~0.80~0.83~0.88
-(Results may vary slightly depending on random seed and hyperparameters.)
 
 Visualizations
 
