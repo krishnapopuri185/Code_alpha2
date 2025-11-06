@@ -151,12 +151,3 @@ Integrate SHAP or LIME for model explainability
 
 
 Build a web dashboard using Streamlit
-
-
-
-
-License
-This project is licensed under the MIT License — you’re free to use, modify, and distribute it with attribution.
-
-Would you like me to include a feature importance plot and SHAP interpretation code snippet in the README too
-That would make it even more impressive for GitHub viewers.
